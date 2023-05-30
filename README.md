@@ -16,15 +16,15 @@ Criação de algoritmo em .net para cálculo de IMC e macronutrientes a partir d
 
 # Lista de Tecnologias:
 
-- Framework
+- Framework ⚙
 
   - [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 
-- Testing
+- Testing 📋
 
   - [XUnit.net](https://xunit.net/)
 
-- Distribuição
+- Distribuição 
 
   - [NuGet](https://www.nuget.org/)
 
@@ -48,17 +48,17 @@ A partir do valor obtido, é determinada uma classificação de índice de massa
 
 - Objetivo:
 
-  -Aumento de Peso;
+  -Aumento de Peso; 💪
 
 Recomendação macros:
 
 
    - Proteína: 2g por Kg do usuário
-    - Gordura: 2g por Kg do usuário
-    - Carboidrato: 4g por Kg do usuário
+   - Gordura: 2g por Kg do usuário
+   - Carboidrato: 4g por Kg do usuário
 
 
-  - Redução de Peso;
+  - Redução de Peso; 🏃‍♂️
 
 Recomendação macros:
 
@@ -67,7 +67,7 @@ Recomendação macros:
     - Carboidrato: 2g por Kg do usuário
 
 
-  - Manutenção do Peso atual;
+  - Manutenção do Peso atual; 🧘‍♂️
 
 Recomendação macros:
 
