@@ -1,6 +1,6 @@
 Curso de Pós-Graduação em Engenharia de Software da PUC-MG
 
-Projeto para trabalho final de Projeto Integrado de Software
+Projeto para trabalho final de Projeto Integrado de Software ✔
 
 Integrantes:
 
